@@ -1,0 +1,7 @@
+input-handling/
+├── .gitignore
+├── .gitlab-ci.yml
+├── package.json
+├── src/
+│   ├── book-validator.js
+│   ├── book-validator.test.js
